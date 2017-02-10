@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/libs/RootTools-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
+        <dex dex="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/2/RootTools-3.4_3759d202669efbdc23d1218dcdf43b78f7cfaf15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_c71ada811fec7bcba177dce688ffd81698ac1ad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="2b5a08298ba034dfaa6af9bd32b602b8afae426d">
+        <dex dex="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ff6bd2463a6fbd7ce9ddcf007b734a75107d642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="6b96e8e27cac014ee51a01a896868819cd5338eb">
+        <dex dex="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dabaededabcb484df0ca1f51fa8985822f7edaa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/SAGAR/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_3e37f4d6ba79d3cee8b7e5d7a5ff95f1c3cf962d/classes.dex" />
+    </item>
+
+</items>

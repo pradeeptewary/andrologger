@@ -1,0 +1,7 @@
+#Thu Feb 09 13:20:08 IST 2017
+base.0=/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dabaededabcb484df0ca1f51fa8985822f7edaa8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ff6bd2463a6fbd7ce9ddcf007b734a75107d642/classes.dex
+base.1=/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ff6bd2463a6fbd7ce9ddcf007b734a75107d642
+file.0=/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dabaededabcb484df0ca1f51fa8985822f7edaa8/classes.dex
