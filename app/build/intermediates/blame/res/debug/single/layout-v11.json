@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
-        "source": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_simple_decor.xml"
+        "merged": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_action_bar_decor.xml"
     },
     {
-        "merged": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
-        "source": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_action_bar_decor.xml"
+        "merged": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_simple_decor.xml",
+        "source": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_simple_decor.xml"
     }
 ]

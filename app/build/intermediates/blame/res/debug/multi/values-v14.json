@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "outputFile": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/src/main/res/values-v14/styles.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 259
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 518
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 651
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 789
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 921
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 1060
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1199
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1330
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1469
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1624
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1757
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1906
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 2047
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 2204
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 2339
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 2490
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -354,7 +354,7 @@
                     "endOffset": 4124
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 4232
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -394,7 +394,7 @@
                     "endOffset": 5903
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
@@ -415,7 +415,7 @@
                     "endOffset": 7549
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
@@ -436,7 +436,7 @@
                     "endOffset": 9240
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 4,
@@ -456,7 +456,7 @@
                     "endOffset": 9360
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 144,
                         "startColumn": 4,
@@ -476,7 +476,7 @@
                     "endOffset": 11043
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 146,
                         "startColumn": 4,
@@ -496,7 +496,7 @@
                     "endOffset": 11134
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -515,7 +515,7 @@
                     "endOffset": 11237
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -534,7 +534,7 @@
                     "endOffset": 11342
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -553,7 +553,7 @@
                     "endOffset": 11449
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -572,7 +572,7 @@
                     "endOffset": 11556
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -591,7 +591,7 @@
                     "endOffset": 11653
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -610,7 +610,7 @@
                     "endOffset": 11770
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -629,7 +629,7 @@
                     "endOffset": 11885
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -649,7 +649,7 @@
                     "endOffset": 12283
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -669,7 +669,7 @@
                     "endOffset": 12396
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -688,7 +688,7 @@
                     "endOffset": 12499
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -707,7 +707,7 @@
                     "endOffset": 12606
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
@@ -726,7 +726,7 @@
                     "endOffset": 12700
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -745,7 +745,7 @@
                     "endOffset": 12791
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -764,7 +764,7 @@
                     "endOffset": 12878
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -783,7 +783,7 @@
                     "endOffset": 12981
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -802,7 +802,7 @@
                     "endOffset": 13096
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -821,7 +821,7 @@
                     "endOffset": 13227
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -840,7 +840,7 @@
                     "endOffset": 13344
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -859,7 +859,7 @@
                     "endOffset": 13477
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -878,7 +878,7 @@
                     "endOffset": 13596
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -897,7 +897,7 @@
                     "endOffset": 13731
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -916,7 +916,7 @@
                     "endOffset": 13850
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 4,
@@ -935,7 +935,7 @@
                     "endOffset": 13985
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 225,
                         "startColumn": 4,
@@ -954,7 +954,7 @@
                     "endOffset": 14094
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 227,
                         "startColumn": 4,
@@ -973,7 +973,7 @@
                     "endOffset": 14223
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 229,
                         "startColumn": 4,
@@ -992,7 +992,7 @@
                     "endOffset": 14350
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1011,7 +1011,7 @@
                     "endOffset": 14471
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 233,
                         "startColumn": 4,
@@ -1030,7 +1030,7 @@
                     "endOffset": 14596
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 235,
                         "startColumn": 4,
@@ -1049,7 +1049,7 @@
                     "endOffset": 14711
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
@@ -1068,7 +1068,7 @@
                     "endOffset": 14824
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -1087,7 +1087,7 @@
                     "endOffset": 14927
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -1106,7 +1106,7 @@
                     "endOffset": 15026
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v14/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,

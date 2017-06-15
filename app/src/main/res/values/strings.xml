@@ -12,7 +12,7 @@
     <string name="title_activity_login">Sign In to Send</string>
 
     <!-- Strings related to senServer -->
-    <string name="user_popup_text">Send Server Code is in Progress !</string>
+    <string name="user_popup_text">Welcome !</string>
     <string name="user_popup_title">Alert</string>
 
     <string name="Retrieve_Contact">Retrieve_Contact</string>

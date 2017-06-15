@@ -112,7 +112,7 @@ public class CallLogWatcher extends ContentObserver {
                 values.put(AndroLoggerDatabase.EVENT_ACTION_COLUMN, "Phone Call");
                 values.put(AndroLoggerDatabase.EVENT_DATE_COLUMN, callDate.getTime());
                 values.put(AndroLoggerDatabase.EVENT_DESCRIPTION_COLUMN, direction);
-                values.put(AndroLoggerDatabase.ADDITIONAL_INFO_COLUMN, "ID:" + id + "; Number:" + contactNumber + "; Name:" + contactName + "; Duration:" + duration + " ;NumType:" + numType + ";");
+                values.put(AndroLoggerDatabase.ADDITIONAL_INFO_COLUMN, "ID:" + id + "; Number:" + contactNumber + "; Name:" + contactName + "; Duration:" + duration + "; NumType:" + numType + ";");
                 context.getContentResolver().insert(eventsUri, values);
                 //Log.i(TAG, "Direction: "+direction+" Number: "+contactNumber+ " Name: "+contactName+" Duration: "+duration+" Date: "+callDate.toString()+" NumType: "+numType+" ID: "+id);
             }

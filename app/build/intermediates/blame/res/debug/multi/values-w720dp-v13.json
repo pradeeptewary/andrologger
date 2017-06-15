@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "outputFile": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "/Users/SAGAR/Desktop/Desktop Items/windows pc data/AndroLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-w720dp/values.xml",
+                    "file": "C:\\Users\\Studio\\AndroidStudioProjects\\AndroLogger26May\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-w720dp\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

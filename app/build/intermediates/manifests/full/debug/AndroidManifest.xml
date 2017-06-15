@@ -85,6 +85,15 @@
         <activity
             android:name="com.andrologger.SendServer"
             android:label="@string/title_activity_login" />
+
+        <receiver
+            android:name="com.andrologger.QuestionGenerate"
+            android:process=":remote" >
+        </receiver>
+
+        <service
+            android:name="com.andrologger.QuestionGenerationService"
+            android:exported="false" />
     </application>
 
 </manifest>

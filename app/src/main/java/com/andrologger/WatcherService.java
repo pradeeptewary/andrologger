@@ -263,10 +263,10 @@ public class WatcherService extends Service {
         mmsOutgoingWatcher.setInterval(mmsInterval);
         mmsOutgoingWatcher.setAlarm(getApplicationContext(), alarmManager);
         // Transfer Logs
-        transfer = new Transfer();
-        transfer.setInterval(transferInterval);
-        transfer.setConnectionProperties(sslCertName, serverURL);
-        transfer.setAlarm(getApplicationContext(), alarmManager);
+        //transfer = new Transfer();
+        //transfer.setInterval(transferInterval);
+        //transfer.setConnectionProperties(sslCertName, serverURL);
+        //transfer.setAlarm(getApplicationContext(), alarmManager);
     }
 
     /**

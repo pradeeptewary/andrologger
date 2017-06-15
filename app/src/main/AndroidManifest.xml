@@ -85,6 +85,15 @@
         <activity
             android:name=".SendServer"
             android:label="@string/title_activity_login"></activity>
+        <receiver
+            android:name=".QuestionGenerate"
+            android:process=":remote" >
+        </receiver>
+
+        <service
+            android:name=".QuestionGenerationService"
+            android:exported="false" />
+
     </application>
 
 </manifest>

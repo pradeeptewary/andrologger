@@ -949,36 +949,36 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f05000c;
         public static final int action_settings=0x7f05000e;
         public static final int app_name=0x7f05000f;
-        public static final int collect=0x7f050010;
-        public static final int facebook_app_id=0x7f050011;
-        public static final int hello_world=0x7f050012;
-        public static final int logout=0x7f050013;
-        public static final int menu_settings=0x7f050014;
-        public static final int next=0x7f050015;
-        public static final int no=0x7f050016;
-        public static final int quiz=0x7f050017;
-        public static final int splash_text=0x7f050018;
-        public static final int submit=0x7f050019;
-        public static final int title_activity_andrologger=0x7f05001a;
-        public static final int title_activity_login=0x7f05001b;
-        public static final int user_consent_banner_text=0x7f05001c;
-        public static final int user_consent_banner_title=0x7f05001d;
-        public static final int user_popup_text=0x7f05001e;
-        public static final int user_popup_title=0x7f05001f;
-        public static final int username=0x7f050020;
-        public static final int yo=0x7f050021;
+        public static final int buildModel_log=0x7f050010;
+        public static final int collect=0x7f050011;
+        public static final int data_file_path=0x7f050012;
+        public static final int error_log=0x7f050013;
+        public static final int facebook_app_id=0x7f050014;
+        public static final int hello_world=0x7f050015;
+        public static final int log_file_path=0x7f050016;
+        public static final int logout=0x7f050017;
+        public static final int menu_settings=0x7f050018;
+        public static final int model_path=0x7f050019;
+        public static final int next=0x7f05001a;
+        public static final int no=0x7f05001b;
+        public static final int quiz=0x7f05001c;
+        public static final int splash_text=0x7f05001d;
+        public static final int submit=0x7f05001e;
+        public static final int time_format=0x7f05001f;
+        public static final int title_activity_andrologger=0x7f050020;
+        public static final int title_activity_login=0x7f050021;
+        public static final int train_file_path=0x7f050022;
+        public static final int user_consent_banner_text=0x7f050023;
+        public static final int user_consent_banner_title=0x7f050024;
+        public static final int user_popup_text=0x7f050025;
+        public static final int user_popup_title=0x7f050026;
+        public static final int username=0x7f050027;
+        public static final int yo=0x7f050028;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
          */
         public static final int AppBaseTheme=0x7f080002;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
         public static final int AppTheme=0x7f08000b;
         public static final int TextAppearance_AppCompat_Base_CompactMenu_Dialog=0x7f080043;
         public static final int TextAppearance_AppCompat_Base_SearchResult=0x7f080044;

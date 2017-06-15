@@ -95,6 +95,46 @@ public class AndroLoggerDatabase extends SQLiteOpenHelper {
                     CDR_NO_TYPE + " INTEGER);";
 
     //--------------------------
+    //Table for Browser Data
+    public static final String BSR_TABLE = "bsr";
+    public static final String BSR_ID_PKEY_COLUMN = "_id";
+    public static final String BSR_Action = "bsr_action";  //whether browser search/browser navigation
+    public static final String BSR_DESCRIPTION = "bsr_description"; //title of the page or keyword of search
+    public static final String BSR_URL = "bsr_urlname"; // name of url
+    private static final String BSR_TABLE_CREATE =
+            "CREATE TABLE " + BSR_TABLE + " (" +
+                    BSR_ID_PKEY_COLUMN + " INTEGER primary key, " +
+                    BSR_Action + " TEXT, " +
+                    BSR_DESCRIPTION + " TEXT, " +
+                    BSR_URL + " TEXT);";
+
+    //--------------------------
+    //Table for SMS Data
+    public static final String SMS_TABLE = "sms";
+    public static final String SMS_ID_PKEY_COLUMN = "_id";
+    public static final String SMS_Action = "sms_action";  //whether sent/received
+    public static final String SMS_SENDER_RECEIVER = "sms_name";
+    public static final String SMS_CONTENT = "sms_content"; //body of msg
+    private static final String SMS_TABLE_CREATE =
+            "CREATE TABLE " + SMS_TABLE + " (" +
+                    SMS_ID_PKEY_COLUMN + " INTEGER primary key, " +
+                    SMS_Action + " TEXT, " +
+                    SMS_SENDER_RECEIVER + " TEXT, " +
+                    SMS_CONTENT + " TEXT);";
+
+    //--------------------------
+    //Table for location Data
+    public static final String LOCATION_TABLE = "location";
+    public static final String LOCATION_ID_PKEY_COLUMN = "_id";
+    public static final String LOCATION_LAT = "location_lat";
+    public static final String LOCATION_LONG = "location_long";
+    private static final String LOCATION_TABLE_CREATE =
+            "CREATE TABLE " + LOCATION_TABLE + " (" +
+                    LOCATION_ID_PKEY_COLUMN + " INTEGER primary key, " +
+                    LOCATION_LAT + " TEXT, " +
+                    LOCATION_LONG + " TEXT);";
+
+    //--------------------------
 
     //Table for questions and answers
     public static final String QUES_TABLE = "questions";
@@ -103,6 +143,7 @@ public class AndroLoggerDatabase extends SQLiteOpenHelper {
     public static final String QUES_TYPE = "question_type";
     public static final String QUES = "ques";
     public static final String QUES_ANSWER = "question_answer";
+    public static final String QUES_LOG_TYPE = "question_log_type";
     public static final String QUES_DIFFICULTY = "difficulty";
     private static final String QUES_TABLE_CREATE =
             "CREATE TABLE " + QUES_TABLE + " (" +
@@ -111,6 +152,7 @@ public class AndroLoggerDatabase extends SQLiteOpenHelper {
                     QUES_TYPE + " INTEGER, " +
                     QUES + " TEXT, " +
                     QUES_ANSWER + " TEXT, " +
+                    QUES_LOG_TYPE + " INTEGER, " +
                     QUES_DIFFICULTY + " INTEGER);";
     //--------------------------------------------
 
@@ -150,6 +192,9 @@ public class AndroLoggerDatabase extends SQLiteOpenHelper {
         db.execSQL(STATUS_TABLE_INSERT);
         db.execSQL(CDR_TABLE_CREATE);
         db.execSQL(QUES_TABLE_CREATE);
+        db.execSQL(BSR_TABLE_CREATE);
+        db.execSQL(SMS_TABLE_CREATE);
+        db.execSQL(LOCATION_TABLE_CREATE);
     }
 
     /**
@@ -168,6 +213,9 @@ public class AndroLoggerDatabase extends SQLiteOpenHelper {
         db.execSQL("DROP TABLE IF EXISTS " + STATUS_TABLE);
         db.execSQL("DROP TABLE IF EXISTS " + CDR_TABLE);
         db.execSQL("DROP TABLE IF EXISTS " + QUES_TABLE);
+        db.execSQL("DROP TABLE IF EXISTS " + BSR_TABLE_CREATE);
+        db.execSQL("DROP TABLE IF EXISTS " + SMS_TABLE_CREATE);
+        db.execSQL("DROP TABLE IF EXISTS " + LOCATION_TABLE_CREATE);
         onCreate(db);
     }
 

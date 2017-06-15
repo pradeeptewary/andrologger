@@ -19,6 +19,8 @@ import android.util.Log;
 import java.util.Calendar;
 import java.util.Date;
 
+
+
 /** This class detects browser history and search events. **/
 public class BrowserHistoryWatcher extends BroadcastReceiver {
     // Initialize constants and variables
